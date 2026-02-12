@@ -1,7 +1,9 @@
 # 🚀 React + TypeScript Web App
 
 ✨ A modern, high-performance web application built using **React**, **TypeScript**, and **Vite** to deliver a fast, scalable, and seamless user experience.
- 🔥Preview
+
+ 
+🔥Preview
  ![Preview](https://images.pexels.com/photos/36121117/pexels-photo-36121117.png)
 ---
 
